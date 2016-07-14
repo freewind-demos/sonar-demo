@@ -19,6 +19,8 @@ Scan the project
 mvn sonar:sonar
 ```
 
+Then open <http://localhost:9000> you will see the results.
+
 Question
 --------
 
